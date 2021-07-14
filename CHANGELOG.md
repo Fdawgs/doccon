@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+### [2.4.3](https://www.github.com/Fdawgs/docsmith/compare/v2.4.2...v2.4.3) (2021-07-14)
+
+
+### Improvements
+
+* **routes/healthcheck:** do not treat route as plugin ([02e6dcb](https://www.github.com/Fdawgs/docsmith/commit/02e6dcba640725dfe317058ea8a7e11da8664c56))
+
+
+### Miscellaneous
+
+* change mentions of "MIME type" to "media type" ([#295](https://www.github.com/Fdawgs/docsmith/issues/295)) ([854759d](https://www.github.com/Fdawgs/docsmith/commit/854759da9bfdf0a3c1599259d5d1baada4f2debd))
+* update plugin metadata for server dependency graph ([13aaf44](https://www.github.com/Fdawgs/docsmith/commit/13aaf44b2feb141bceb5950cd89c8b75a800a120))
+
 ### [2.4.2](https://www.github.com/Fdawgs/docsmith/compare/v2.4.1...v2.4.2) (2021-07-12)
 
 
